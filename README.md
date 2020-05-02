@@ -1,11 +1,11 @@
 # **Projeto TodoList com VueJS**
 
 ## **Bibliotecas e Ferramentas**
-    VueJS
-    Vuex
-    VueRouter
-    SpectreCSS
-    Eslint
+* VueJS
+* Vuex
+* VueRouter
+* SpectreCSS
+* Eslint
 
 ## **Setup**
 
